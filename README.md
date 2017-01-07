@@ -1,2 +1,1 @@
-# hello-word
-just a repository
+my name is malina
